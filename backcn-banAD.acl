@@ -1,6 +1,6 @@
 #**********************************************************************
-# 07.26
-# 2020年7月26日 20:34:56
+# 10.03
+# 2020年10月3日11:41:57
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -34,7 +34,6 @@
 (^|\.)\w*adsage\w*\.\w*$
 (^|\.)\w*adsensor\w*\.\w*$
 (^|\.)\w*adservice\w*\.\w*$
-(^|\.)\w*adsh\w*\.\w*$
 (^|\.)\w*adsmogo\w*\.\w*$
 (^|\.)\w*adsrvmedia\w*\.\w*$
 (^|\.)\w*adsserving\w*\.\w*$
@@ -47,8 +46,6 @@
 (^|\.)\w*duomeng\w*\.\w*$
 (^|\.)\w*dwtrack\w*\.\w*$
 (^|\.)\w*guanggao\w*\.\w*$
-(^|\.)\w*lianmeng\w*\.\w*$
-(^|\.)\w*monitor\w*\.\w*$
 (^|\.)\w*omgmta\w*\.\w*$
 (^|\.)\w*omniture\w*\.\w*$
 (^|\.)\w*openx\w*\.\w*$
@@ -173,7 +170,6 @@
 (^|\.)ae\.bdstatic\.com$
 (^|\.)antivirus\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
-(^|\.)ashifen\.com$
 (^|\.)baichuan\.baidu\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
@@ -258,7 +254,6 @@
 (^|\.)sestat\.baidu\.com$
 (^|\.)shadu\.baidu\.com$
 (^|\.)share\.baidu\.com$
-(^|\.)shifen\.com$
 (^|\.)snippet\.pos\.baidu\.com$
 (^|\.)sobar\.baidu\.com$
 (^|\.)sobartop\.baidu\.com$
@@ -411,10 +406,9 @@
 (^|\.)(d|migc|migcreport|mis)\.g\.mi\.com$
 (^|\.)(notice|ppurifier)\.game\.xiaomi\.com$
 (^|\.)(r|security)\.browser\.miui\.com$
-(^|\.)adv\.sec.\intl\.miui.com$
+(^|\.)adv\.sec\.intl\.miui\.com$
 (^|\.)adv\.sec\.miui\.com$
 (^|\.)data\.mistat\.xiaomi\.com$
-(^|\.)tracking\.miui\.com$
 (^|\.)union\.mi\.com$
 
 # Moji
@@ -537,7 +531,6 @@
 (^|\.)doubleplay-conf-yql\.media\.yahoo\.com$
 (^|\.)flurry\.com$
 (^|\.)m\.yap\.yahoo\.com$
-(^|\.)uservoice\.com$
 (^|\.)ws\.progrss\.yahoo\.com$
 
 # Zhihu
@@ -715,7 +708,7 @@
 (^|\.)(1|2)\.win7china\.com$
 (^|\.)(801|803|806|808|bdj|dol|click)\.(tianya|tianyaui)\.cn$
 (^|\.)(92x|its-dori)\.tumblr\.com$
-(^|\.)(adm|eq|fund|ozone|stat|vaserviece)\.10jqka\.com\.cn$
+(^|\.)(adm|eq|ozone|stat|vaserviece)\.10jqka\.com\.cn$
 (^|\.)(ad|adadmin|ads)\.house365\.com$
 (^|\.)(ad|ads|counter)\.csdn\.net$
 (^|\.)(ad|analytics|click|ganjituiguang|sta|tralog)\.ganji\.com$
@@ -748,7 +741,6 @@
 (^|\.)collector\.githubapp\.com$
 (^|\.)de\.soquair\.com$
 (^|\.)e\.nexac\.com$
-(^|\.)erebor\.douban\.com$
 (^|\.)exp\.17wo\.cn$
 (^|\.)game\.51yund\.com$
 (^|\.)hosting\.miarroba\.info$
@@ -1041,7 +1033,6 @@
 (^|\.)optaim\.com$
 (^|\.)optimix\.asia$
 (^|\.)optimix\.cn$
-(^|\.)optimizely\.com$
 (^|\.)optimizelyapis\.com$
 (^|\.)overture\.com$
 (^|\.)p0y\.cn$
@@ -1519,6 +1510,7 @@
 # MyList
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
+(^|\.)chinaplay\.store$
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
 (^|\.)mpyit\.com$
@@ -1698,6 +1690,7 @@
 # Douyu 斗鱼
 (^|\.)douyu\.com$
 (^|\.)douyu\.tv$
+(^|\.)douyuscdn\.com$
 (^|\.)douyutv\.com$
 
 # Epic
@@ -1841,13 +1834,14 @@
 (^|\.)st\.dl\.bscstorage\.net$
 (^|\.)st\.dl\.eccdnx\.com$
 (^|\.)st\.dl\.pinyuncloud\.com$
-(^|\.)steamcdn-a\.akamaihd\.net$
+(^|\.)steamcommunity-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
 (^|\.)steamgames\.com$
 (^|\.)steampowered\.com\.8686c\.com$
 (^|\.)steamstat\.us$
 (^|\.)steamstatic\.com$
 (^|\.)steamusercontent\.com$
+(^|\.)steamuserimages-a\.akamaihd\.net$
 
 # Tencent
 (^|\.)foxmail\.com $
@@ -1891,7 +1885,7 @@
 
 # YYeTs 人人影视
 (^|\.)got001\.com$
-(^|\.)jstucdn\.com$
+(^|\.)p4pfile\.com$
 (^|\.)rrys\.tv$
 (^|\.)rrys2020\.com$
 (^|\.)yyets\.com$
@@ -2148,7 +2142,6 @@
 (^|\.)smzdm\.com$
 (^|\.)snwx\.com$
 (^|\.)soufunimg\.com$
-(^|\.)ssl-images-amazon\.com$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
 (^|\.)suning\.com$
@@ -8296,6 +8289,8 @@
 # 直连列表
 
 # MyList
+(^|\.)1password\.com$
+(^|\.)adguard\.org$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
@@ -14163,10 +14158,16 @@
 (^|\.)stackoverflow\.com$
 
 # Discord
+(^|\.)discord\.co$
+(^|\.)discord\.com$
 (^|\.)discord\.gg$
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
 (^|\.)discordapp\.net$
+
+# Dubox
+(^|\.)dubox\.com$
+(^|\.)duboxcdn\.com$
 
 # Facebook
 (^|\.)facebook\.com$
@@ -14487,6 +14488,20 @@
 158.85.224.160/27
 75.126.150.0/16
 69.171.235.0/16
+
+# Wikipedia 维基相关域名
+(^|\.)mediawiki\.org$
+(^|\.)wikibooks\.org$
+(^|\.)wikidata\.org$
+(^|\.)wikileaks\.org$
+(^|\.)wikimedia\.org$
+(^|\.)wikinews\.org$
+(^|\.)wikipedia\.org$
+(^|\.)wikiquote\.org$
+(^|\.)wikisource\.org$
+(^|\.)wikiversity\.org$
+(^|\.)wikivoyage\.org$
+(^|\.)wiktionary\.org$
 
 #飞流直播
 (^|\.)neulion\.com$

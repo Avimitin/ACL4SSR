@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,bokecc.com
   - DOMAIN-SUFFIX,chaipip.com
+  - DOMAIN-SUFFIX,chinaplay.store
   - DOMAIN-SUFFIX,hrtsea.com
   - DOMAIN-SUFFIX,kaikeba.com
   - DOMAIN-SUFFIX,laomo.me
@@ -165,6 +166,7 @@ payload:
   # Douyu 斗鱼
   - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,douyu.tv
+  - DOMAIN-SUFFIX,douyuscdn.com
   - DOMAIN-SUFFIX,douyutv.com
 
   # Epic
@@ -308,13 +310,14 @@ payload:
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampowered.com.8686c.com
   - DOMAIN-SUFFIX,steamstat.us
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 
   # Tencent
   - DOMAIN-SUFFIX,foxmail.com
@@ -359,7 +362,7 @@ payload:
 
   # YYeTs 人人影视
   - DOMAIN-SUFFIX,got001.com
-  - DOMAIN-SUFFIX,jstucdn.com
+  - DOMAIN-SUFFIX,p4pfile.com
   - DOMAIN-SUFFIX,rrys.tv
   - DOMAIN-SUFFIX,rrys2020.com
   - DOMAIN-SUFFIX,yyets.com
@@ -621,7 +624,6 @@ payload:
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,snwx.com
   - DOMAIN-SUFFIX,soufunimg.com
-  - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,sspai.com
   - DOMAIN-SUFFIX,startssl.com
   - DOMAIN-SUFFIX,suning.com

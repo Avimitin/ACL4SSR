@@ -5467,7 +5467,6 @@
 .wm.baidu.com reject
 .youqian.baidu.com reject
 .znsv.baidu.com reject
-.ashifen.com reject
 .baidu9635.com reject
 .bj.bcebos.com reject
 .boscdn.bpc.baidu.com reject
@@ -5478,7 +5477,6 @@
 .push.music.baidu.com reject
 .push.zhanzhang.baidu.com reject
 .res.limei.com reject
-.shifen.com reject
 .static.map.bdimg.com reject
 .ubmcmm.baidustatic.com reject
 .ulog.imap.baidu.com reject
@@ -5652,7 +5650,6 @@
 .a.union.mi.com reject
 .resolver.gslb.mi-idc.com reject
 .resolver.msg.xiaomi.net reject
-.tracking.miui.com reject
 
 # Moji
 .ad.api.moji.com reject
@@ -6110,7 +6107,6 @@
 .its-dori.tumblr.com reject
 .adm.10jqka.com.cn reject
 .eq.10jqka.com.cn reject
-.fund.10jqka.com.cn reject
 .ozone.10jqka.com.cn reject
 .stat.10jqka.com.cn reject
 .vaserviece.10jqka.com.cn reject
@@ -6168,7 +6164,6 @@
 .collector.githubapp.com reject
 .de.soquair.com reject
 .e.nexac.com reject
-.erebor.douban.com reject
 .exp.17wo.cn reject
 .game.51yund.com reject
 .hosting.miarroba.info reject
@@ -6431,7 +6426,6 @@
 .onetad.com reject
 .optaim.com reject
 .optimix.asia reject
-.optimizely.com reject
 .optimizelyapis.com reject
 .overture.com reject
 .p0y.cn reject

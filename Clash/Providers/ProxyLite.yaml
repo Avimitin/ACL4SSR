@@ -3,11 +3,14 @@ payload:
 
   # MyList && Other
   - DOMAIN-SUFFIX,1password.com
+  - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,bit.no.com
   - DOMAIN-SUFFIX,btlibrary.me
   - DOMAIN-SUFFIX,cccat.io
   - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,gameloft.com
+  - DOMAIN-SUFFIX,garena.com
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ping.pe
@@ -161,8 +164,6 @@ payload:
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,vox-cdn.com
-  - DOMAIN-SUFFIX,wikileaks.org
-  - DOMAIN-SUFFIX,wikipedia.org
 
   # Amazon
   - DOMAIN-SUFFIX,amazon.co.jp
@@ -211,10 +212,16 @@ payload:
   - DOMAIN-SUFFIX,stackoverflow.com
 
   # Discord
+  - DOMAIN-SUFFIX,discord.co
+  - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.media
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
+
+  # Dubox
+  - DOMAIN-SUFFIX,dubox.com
+  - DOMAIN-SUFFIX,duboxcdn.com
 
   # Facebook
   - DOMAIN-SUFFIX,facebook.com
@@ -272,7 +279,6 @@ payload:
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,instagr.am
-  - DOMAIN-SUFFIX,akamaihd.net
 
   # Kakao Talk
   - DOMAIN-SUFFIX,kakao.com
@@ -396,6 +402,20 @@ payload:
   - IP-CIDR,158.85.224.160/27,no-resolve
   - IP-CIDR,75.126.150.0/16,no-resolve
   - IP-CIDR,69.171.235.0/16,no-resolve
+
+  # Wikipedia 维基相关域名
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikileaks.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiversity.org
+  - DOMAIN-SUFFIX,wikivoyage.org
+  - DOMAIN-SUFFIX,wiktionary.org
 
   #飞流直播
   - DOMAIN-SUFFIX,neulion.com
